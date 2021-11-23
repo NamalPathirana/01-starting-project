@@ -23,11 +23,7 @@
   border-color: #8b005d;
 }
 
-.form-control.inValid input{
+.form-control.isValid{
   background-color: #f3b5de;
   border-color: red;
-}
-
-.form-control.inValid label{
-  color: red;
 }
